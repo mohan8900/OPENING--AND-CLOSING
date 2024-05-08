@@ -25,8 +25,8 @@ Use Opening operation
 Use Closing Operation
  
 ## Program:
-#### Developed by:ONTEDDU SIRISHA
-#### Register.no:212222230103
+#### Developed by:A K MOHAN RAJ
+#### Register.no:212221230064
 ## Import the necessary packages
 
 ```python
